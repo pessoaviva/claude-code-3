@@ -1,0 +1,9 @@
+# Vercel
+.vercel
+
+# Node / ferramentas (a página em si não usa npm)
+node_modules
+npm-debug.log*
+
+# Sistema
+.DS_Store
