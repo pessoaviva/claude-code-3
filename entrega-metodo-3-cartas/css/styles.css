@@ -482,13 +482,13 @@ em { color: var(--gold-bright); font-style: italic; }
   line-height: 0.95;
   color: var(--gold-bright);
   display: inline-flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 0.12em;
   text-shadow: 0 0 38px rgba(224, 179, 87, 0.4);
 }
 .offer__cur {
   font-size: 0.4em;
-  margin-top: 0.55em;
+  margin-top: 0;
   color: var(--gold);
 }
 .offer__price-sub {
